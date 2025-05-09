@@ -1,13 +1,13 @@
-group = "app.revanced"
+group = "nk_mason.revanced"
 
 patches {
     about {
-        name = "ReVanced Patches template"
-        description = "Patches template for ReVanced"
-        source = "git@github.com:revanced/revanced-patches-template.git"
-        author = "ReVanced"
-        contact = "contact@revanced.app"
-        website = "https://revanced.app"
+        name = "Custom ReVanced Patches @ nk_mason"
+        description = "Custom ReVanced Patches"
+        source = "git@github.com:nk521/custom-revanced-patches.git"
+        author = "nk_mason"
+        contact = "..."
+        website = "..."
         license = "GNU General Public License v3.0"
     }
 }
