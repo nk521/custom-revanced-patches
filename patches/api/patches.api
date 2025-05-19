@@ -152,6 +152,10 @@ public final class app/revanced/patches/bandcamp/limitations/RemovePlayLimitsPat
 	public static final fun getRemovePlayLimitsPatch ()Lapp/revanced/patcher/patch/BytecodePatch;
 }
 
+public final class app/revanced/patches/bharatpe/root/RemoveRootChecksPatchKt {
+	public static final fun getBharatpePatch ()Lapp/revanced/patcher/patch/BytecodePatch;
+}
+
 public final class app/revanced/patches/cieid/restrictions/root/BypassRootChecksPatchKt {
 	public static final fun getBypassRootChecksPatch ()Lapp/revanced/patcher/patch/BytecodePatch;
 }
